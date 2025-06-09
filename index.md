@@ -9,7 +9,7 @@ I obtained a B.S. in Signal Processsing from [the School of XXX, University of X
 
 ---
 ## Research Interests
-- **Audio Signal Processing**: Noise Cancellation, Acoustic Echo Cancellation, Audio Effect Algorithms;
+- **Audio Signal Processing**: Noise Cancellation, Acoustic Echo Cancellation, Audio Effect Algorithms.
 
 ---
 ## Publications

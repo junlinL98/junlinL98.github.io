@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Junlin LIU
-** programer**
+**programer**
 
 [Link to another page](./another-page.html).
 
